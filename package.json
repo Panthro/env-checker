@@ -1,0 +1,27 @@
+{
+  "name": "env-checker",
+  "version": "1.0.0",
+  "description": "Nodejs Environment Variables checker",
+  "main": "env-checker.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Panthro/env-checker.git"
+  },
+  "keywords": [
+    "node",
+    "environment",
+    "checker"
+  ],
+  "author": "Panthro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Panthro/env-checker/issues"
+  },
+  "homepage": "https://github.com/Panthro/env-checker#readme",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
