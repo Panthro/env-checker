@@ -1,6 +1,6 @@
 {
   "name": "env-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nodejs Environment Variables checker",
   "main": "env-checker.js",
   "scripts": {
